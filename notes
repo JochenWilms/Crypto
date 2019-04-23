@@ -1,0 +1,15 @@
+kickstarter variant purely on smart contracts
+
+Insurance companies can be replaced with a block chain.
+      contracts of an Insurance can be signed online.
+      Claims need to be verified with unknown third parties online who receive some tokens.
+
+
+Monero:
+compareable to bitcoin
+Monero uses a Proof of Work
+private but in an other way, the ring signatures mix
+no smart contracts
+
+
+truffle and genache
